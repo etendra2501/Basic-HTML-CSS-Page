@@ -1,0 +1,27 @@
+h1 {
+    font-family: "Trebuchet MS", cursive;
+    font-weight: 400;
+    text-align: center;
+    font-size: 54px;
+    color:firebrick;
+    font-style: normal;
+    letter-spacing: 2px;
+    line-height: 100%;
+  }
+h2 {
+    font-family: 'Comic Sans MS';
+    font-size: 32px;
+    color:rgb(0, 6, 120);
+  }
+  
+h3 {
+    font-family: "Comic Sans MS";
+    font-size: 24px;
+    color: rgb(116, 8, 174);
+  }
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: darkslategrey;
+  }
